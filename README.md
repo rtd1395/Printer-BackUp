@@ -1,4 +1,4 @@
-# Klipper-Backup 💾 
-Klipper backup script for manual or automated GitHub backups 
+It used to be an Ender 3 😁 
+Got some upgrades.
 
 This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup).
